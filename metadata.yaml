@@ -1,0 +1,29 @@
+_repo: Voyages-au-temps-jadis-en-France-en-Angleterre-en-Allemagne-en-Suisse-en-Italie-en-Sicile-en-__20562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aynard, Théodore
+    gutenberg_agent_id: '9388'
+    url: http://www.gutenberg.org/2009/agents/9388
+description: ''
+gutenberg_bookshelf:
+- FR Services publics
+- The Philatelic Digital Library Project
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20562'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+title: Voyages au temps jadis en France, en Angleterre, en Allemagne, en Suisse, en
+  Italie, en Sicile, en poste, en diligence, en voiturin, en traîneau, en espéronade,
+  à cheval et en patache, de 1787 à 1844
+url: http://www.gutenberg.org/ebooks/20562
