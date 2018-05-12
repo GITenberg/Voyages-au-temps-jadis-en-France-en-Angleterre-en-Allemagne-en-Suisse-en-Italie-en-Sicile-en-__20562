@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9388'
     url: http://www.gutenberg.org/2009/agents/9388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20562#Voyages-au-temps-jadis-en-France-en-Angleterre-en-Allemagne-en-Suisse-en-Italie-en-Sicile-en-_
 gutenberg_bookshelf:
 - FR Services publics
 - The Philatelic Digital Library Project
